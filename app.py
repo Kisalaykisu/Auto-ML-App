@@ -1,6 +1,6 @@
 # App created by Kisalay Srivastava
-# GitHub repo of this app https://github.com/Kisalaykisu/Auto-ML-App
-# Demo of this app 
+# GitHub repo of this app  https://github.com/Kisalaykisu/Auto-ML-App
+# Demo of this app  https://github.com/Kisalaykisu/Auto-ML-App/blob/main/app.py
 
 import streamlit as st
 import pandas as pd
