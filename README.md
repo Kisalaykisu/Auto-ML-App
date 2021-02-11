@@ -15,7 +15,7 @@ To recreate this web app on your own computer, do the following.
 ##  Install prerequisite libraries
      Download requirements.txt file
 
-     wget https://github.com/Kisalaykisu/Auto-ML-App/blob/main/requirements.txt
+wget https://github.com/Kisalaykisu/Auto-ML-App/blob/main/requirements.txt
 
 ## Pip install libraries
 
