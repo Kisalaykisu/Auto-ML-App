@@ -15,13 +15,14 @@ To recreate this web app on your own computer, do the following.
 ##  Install prerequisite libraries
      Download requirements.txt file
 
-     wget https://raw.githubusercontent.com/dataprofessor/ml-auto-app/main/requirements.txt
+     wget https://github.com/Kisalaykisu/Auto-ML-App/blob/main/requirements.txt
 
 ## Pip install libraries
 
       pip install -r requirements.txt
 
 Download and unzip contents from GitHub repo
+
 Download and unzip contents from https://github.com/Kisalaykisu/Auto-ML-App.git
 
 ## Launch the app
